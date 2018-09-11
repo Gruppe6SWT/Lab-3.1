@@ -8,7 +8,7 @@
 
             ecs.Regulate();
 
-            ecs.SetThreshold(20);
+            ecs.Threshold =20;
 
             ecs.Regulate();
         }
